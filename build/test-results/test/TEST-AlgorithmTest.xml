@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AlgorithmTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2021-01-21T23:22:26" hostname="DESKTOP-OO3LMCV" time="0.04">
+  <properties/>
+  <testcase name="case 3()" classname="AlgorithmTest" time="0.03"/>
+  <testcase name="error case 3()" classname="AlgorithmTest" time="0.001"/>
+  <testcase name="error case 5()" classname="AlgorithmTest" time="0.001"/>
+  <testcase name="error case 2()" classname="AlgorithmTest" time="0.0"/>
+  <testcase name="case 1()" classname="AlgorithmTest" time="0.0"/>
+  <testcase name="error case 1()" classname="AlgorithmTest" time="0.0"/>
+  <testcase name="error case 4()" classname="AlgorithmTest" time="0.001"/>
+  <testcase name="error case 6()" classname="AlgorithmTest" time="0.001"/>
+  <testcase name="case 2()" classname="AlgorithmTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
